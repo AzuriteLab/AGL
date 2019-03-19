@@ -22,6 +22,8 @@ Copyright(c) <Year> <Author Name>
 
 この規約は製品を購入, または入手した瞬間効力を発揮し利用者は規約に同意したものと見做します.
 
+この規約は著作者が属する国の法律の下で解釈されると見做します.
+
 また, この規約は作者または著作者の意思により変更される可能性があります.
 
 ### [English]
@@ -35,6 +37,8 @@ Copyright(c) <Year> <Author Name>
 In no event shall the authors or copyright holders be liable for any claims, damage or other obligations arising from or related to this product.
 
 This agreement considers the user agreeing to the terms at the moment the product is purchased or acquired.
+
+This agreement considers interpreted under the laws of the country to which the copyright owner belongs.
 
 The contents of this agreement may be changed by the will of the authors or copyright holders.
 
