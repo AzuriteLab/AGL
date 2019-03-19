@@ -1,12 +1,12 @@
 # Azurite Generic License for Model (AGL)
 
-Version: 2019.03.19.0
+Version: 2019.03.19.2
 
 Original: https://github.com/AzuriteLab/AGL
 
 ## [コピーライト/Copyright]
 
-Copyright(c) <Year> <Author Name>
+Copyright(c) `<Year>` `<Author Name>`
 
 ## [規約内容/Details]
 
@@ -48,4 +48,4 @@ N/A
 
 ## [連絡先/Contact]
 
-<Contact>
+`<Contact>`
