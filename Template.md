@@ -14,7 +14,7 @@ Copyright(c) `<Year>` `<Author Name>`
 * テクスチャ、モデルなど製品に含まれるものを改変することを許可する
 * 商用利用可能
 * R-18, R-18Gでの利用可能
-* 再配布の禁止
+* 再配布、再販売の禁止
 * 政治, 宗教, 民族問題に関わる利用を禁止
 * 他者または集団に対する誹謗中傷のための利用を禁止
 
@@ -30,7 +30,7 @@ Copyright(c) `<Year>` `<Author Name>`
 * Allow to modify textures, models and others include in this products
 * Allow to use for commercial purposes
 * Allow to use on NSFW
-* Prohibit to redistribute this products
+* Prohibit to resale and redistribute this products
 * Prohibit to use for politics, religion and ethnic issues
 * Prohibit to use for slander to others and groups
 
