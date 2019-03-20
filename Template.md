@@ -1,6 +1,6 @@
 # Azurite Generic License for Model (AGL)
 
-Version: 2019.03.19.2
+Version: 2019.03.20.0
 
 Original: https://github.com/AzuriteLab/AGL
 
@@ -11,10 +11,10 @@ Copyright(c) `<Year>` `<Author Name>`
 ## [規約内容/Details]
 
 ### [日本語]
-* モデル,テクスチャの改変可能
+* テクスチャ、モデルなど製品に含まれるものを改変することを許可する
 * 商用利用可能
 * R-18, R-18Gでの利用可能
-* 複製および再配布の禁止
+* 再配布の禁止
 * 政治, 宗教, 民族問題に関わる利用を禁止
 * 他者または集団に対する誹謗中傷のための利用を禁止
 
@@ -22,15 +22,15 @@ Copyright(c) `<Year>` `<Author Name>`
 
 この規約は製品を購入, または入手した瞬間効力を発揮し利用者は規約に同意したものと見做します.
 
-この規約は著作者が属する国の法律の下で解釈されると見做します.
+この規約は著作者が属する国の倫理の下で解釈されると見做します.
 
 また, この規約は作者または著作者の意思により変更される可能性があります.
 
 ### [English]
-* Allow to modify textures and models
+* Allow to modify textures, models and others include in this products
 * Allow to use for commercial purposes
 * Allow to use on NSFW
-* Prohibit to reproduct and redistribute
+* Prohibit to redistribute this products
 * Prohibit to use for politics, religion and ethnic issues
 * Prohibit to use for slander to others and groups
 
@@ -38,7 +38,7 @@ In no event shall the authors or copyright holders be liable for any claims, dam
 
 This agreement considers the user agreeing to the terms at the moment the product is purchased or acquired.
 
-This agreement considers interpreted under the laws of the country to which the copyright owner belongs.
+This agreement considers interpreted under the morals of the country to which the copyright owner belongs.
 
 The contents of this agreement may be changed by the will of the authors or copyright holders.
 
